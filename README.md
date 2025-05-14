@@ -1,4 +1,6 @@
-## EasyKanBan - Java Task Management System
+# EasyKanBan - Java Task Management System
+
+## Overview
 EasyKanBan is a console and dialog-based task management application written in Java. The system allows users to create accounts, log in, and manage tasks in a Kanban-style workflow.
 Features
 
